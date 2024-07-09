@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Shubham App Login Page | CodingNepal</title>
+    <title> Netflix Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-10.0</h2>
+      <h2> Shubham Application </h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
